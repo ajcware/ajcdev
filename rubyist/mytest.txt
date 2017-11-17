@@ -1,0 +1,10 @@
+###
+# this is a test file for github
+# testing how commit works
+###
+
+{
+ result=bogus.isTrue(true);
+ print result;
+ bye();
+}
